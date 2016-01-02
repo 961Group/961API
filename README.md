@@ -2,7 +2,7 @@
 
 To Download The Project Click This :
 
-https://github.com/961Group/961API/releases/
+https://github.com/961Group/961API/releases/latest
 
 961API System provides a safe platform for your applications, 
 safety is one of our main priorities, with features such as anti-copy,
